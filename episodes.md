@@ -1,7 +1,7 @@
 # Episodes
 
 - [x] 01 The Tortoise and the Hare (Perry 226) — posted 2026-11-17
-- [ ] 02 The Lion and the Mouse (Perry 150)
+- [x] 02 The Lion and the Mouse (Perry 150) — YouTube scheduled 2026-11-21 / 2026-11-22
 - [ ] 03 The North Wind and the Sun (Perry 46)
 - [ ] 04 The Ant and the Grasshopper (Perry 373)
 - [ ] 05 The Fox and the Crow (Perry 124)
